@@ -69,14 +69,3 @@ brainteaserbot/
 └── README.md
 ```
 
-## 🎨 Screenshots
-
-Include screenshots of the website here to showcase the UI and features.
-
-
-## 📧 Contact
-
-If you have any questions or feedback, please reach out:
-
-- **Kailash Agarwal** - [Portfolio](https://kailash-agarwal-portfolio.netlify.app/)
-- **Email**: kailashjobmail007@gmail.com
